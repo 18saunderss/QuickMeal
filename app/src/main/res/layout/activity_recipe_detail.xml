@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/orange"
-    tools:context=".RecipeDetailActivity">
+    tools:context="com.appsterchef.capstone.RecipeDetailActivity">
+
     <com.github.ybq.android.spinkit.SpinKitView
-        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/loader"
         style="@style/SpinKitView.Large.Circle"
         android:layout_width="wrap_content"

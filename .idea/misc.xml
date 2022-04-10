@@ -20,6 +20,17 @@
         <entry key="..\:/Users/Evan/AndroidStudioProjects/QuickMeal/app/src/main/res/layout/nutrition_dialog.xml" value="0.30416666666666664" />
         <entry key="..\:/Users/Evan/AndroidStudioProjects/QuickMeal/app/src/main/res/layout/spinner_inner_text.xml" value="0.30416666666666664" />
         <entry key="..\:/Users/Evan/AndroidStudioProjects/QuickMeal/app/src/main/res/layout/spinner_text.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/activity_recipe_detail.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/list_ingredients.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/list_instructions.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/list_instructions_step_items.xml" value="0.171225937183384" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/list_instructions_steps.xml" value="0.171225937183384" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/list_random.xml" value="0.1" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/list_similar.xml" value="0.1" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMeal/app/src/main/res/layout/nutrition_dialog.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMealIntegration/app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/jacis/StudioProjects/QuickMealIntegration/app/src/main/res/layout/activity_recipe_detail.xml" value="0.35572916666666665" />
       </map>
     </option>
   </component>
